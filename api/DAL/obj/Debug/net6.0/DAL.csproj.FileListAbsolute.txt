@@ -1,0 +1,24 @@
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Kenan\Desktop\BootcampBitirmeOdevi\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Kenan\Desktop\Muzeyyen-Yildiz-bitirme projesi\api\DAL\obj\Debug\net6.0\DAL.pdb

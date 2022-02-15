@@ -1,0 +1,18 @@
+.link {
+  text-decoration: none;
+  color: #fff;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+.link-btn {
+  color: #fff;
+  text-decoration: none;
+}
+.link:hover {
+  text-decoration: none;
+  color: #fff;
+  background-color: rgb(83, 82, 82);
+}
+.nav-btn {
+  margin-right: 20px;
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df749bd9-6ff5-4867-af4d-b06f412da689": {
+      "ProjectGuid": "df749bd9-6ff5-4867-af4d-b06f412da689",
+      "DisplayName": "SiteManagementAPI",
+      "ColorIndex": 0
+    },
+    "b289a04b-f87c-4ce6-b94c-7e3c648a8b4b": {
+      "ProjectGuid": "b289a04b-f87c-4ce6-b94c-7e3c648a8b4b",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "ccfbc106-193a-4a63-91e5-db3fb5962c23": {
+      "ProjectGuid": "ccfbc106-193a-4a63-91e5-db3fb5962c23",
+      "DisplayName": "EFLibCore",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

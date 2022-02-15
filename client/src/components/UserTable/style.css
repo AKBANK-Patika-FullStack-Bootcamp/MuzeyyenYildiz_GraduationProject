@@ -1,0 +1,8 @@
+.card-container {
+  background-color: #ecedef;
+  width: 100%;
+}
+.card-container table {
+  margin: 15px !important;
+  width: 100%;
+}
